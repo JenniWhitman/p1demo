@@ -120,7 +120,7 @@
 			<div class="row-fluid">
 		        <div class="span4">
 		          <h2>Need help?</h2>
-		          <p>There are a number of tools.  Check out <a href="http://dwa15.com">dwa15.com</a> for more info.  Join Piazza and post, DM me on Slack, come to my sections, or <a href=<"mailto:jenni@dwa15.com?Subject=Website%20Help">email me</a>.</p>
+		          <p>There are a number of tools.  Check out <a href="http://dwa15.com">dwa15.com</a> for more info.  Join Piazza and post, DM me on Slack, come to my sections, or <a href="mailto:jenni@dwa15.com?Subject=Website%20Help">email me</a>.</p>
 		        </div><!-- /.span4 -->
 	    	</div>
 	    </div>
