@@ -49,7 +49,7 @@
 		    <!-- About Me Section -->
 		    <div class="row-fluid">  <!-- open row -->
 		    	<div class="span4 text-center">
-		    		<img src="images/ta-jenni.png">
+		    		<img src="images/profile_pic.png">
 		    		<img src="images/jenni_whitman.png">
 		    	</div>
 		    <div class="span8">
@@ -60,13 +60,13 @@
 	    		<p>I'm a geek, mom, gamer, IT professional, student, and teaching assistant.  I love computers.  I love to code.  I love to learn and I love to share knowledge.</p>
 	    		<br>
 	    		<h2>Why are you <strike>taking</strike> TAing this course?</h2>
-	    		<p>Because I loved this course.  I made something here.  I learned something here.  And it wasn't painful.  I'd love to share that experience and learn more.  Plus, in my opinion, Susan is pretty awesome.</p>
+	    		<p>Because I loved this course.  I made something here.  I learned something here.  And it wasn't painful.  I'd love to share that experience and learn more.  Plus, in my opinion, <a href="http://susanbuck.net/" alt="Susan">Susan</a> is pretty awesome.</p>
 	    		<br>
 	    		<h2>What previous experience do you have with programming?</h2>
-	    		<p>I started on Java around 11 years ago.  I've done coursework in: Java, C, Javascript, PHP, Html, CSS, C++, and a few random languages like Scheme and Scratch.  I also have experience with the three major content management systems and a number of wiki formats.  During the day I'm a sys admin and product/service manager at Harvard Business School.</a></p>
+	    		<p>I started on Java around 11 years ago.  I've done coursework in: Java, C, Javascript, PHP, Html, CSS, C++, and a few random languages like Scheme and Scratch.  I also have experience with the three major content management systems and a number of wiki formats.  During the day I develop e-learning content for a software company.</a></p>
 	    		<br>
 	    		<h2>Are you working on a Mac, PC, or some other platform?</h2>
-	    		<p>My primary machine is a Macbook Pro. My gaming machine is a Lenovo Windows box and my house has no less than 10 computers at any time.  I also keep a Linux Live boot USB around.  I'm pretty fluid when it comes to platform.</p>
+	    		<p>My primary machine is a Macbook Pro. My gaming machine is a Lenovo Windows laptop and my house has a few other random machines lying around.  I also keep a Linux Live boot USB around.  I'm pretty fluid when it comes to platform.</p>
 	    		<br>
 	    		<h2>Anything else we should know?</h2>
 	    		<p>I'm here to help!  Reach out if you start falling behind on Slack, Piazza or Email.  We'll figure it out!</p>
@@ -120,7 +120,7 @@
 			<div class="row-fluid">
 		        <div class="span4">
 		          <h2>Need help?</h2>
-		          <p>There are a number of tools.  Check out <a href="http://dwa15.com">dwa15.com</a> for more info.  Join the Piazza and post,Find me on Slack, come to Wednesday night sections, or <a href=<"mailto:jenni@dwa15.com?Subject=Website%20Help">email me</a>.</p>
+		          <p>There are a number of tools.  Check out <a href="http://dwa15.com">dwa15.com</a> for more info.  Join Piazza and post, DM me on Slack, come to my sections, or <a href=<"mailto:jenni@dwa15.com?Subject=Website%20Help">email me</a>.</p>
 		        </div><!-- /.span4 -->
 	    	</div>
 	    </div>
