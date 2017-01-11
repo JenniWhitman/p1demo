@@ -9,7 +9,7 @@
 	<title>P1 | Jenni Whitman</title>
 	<meta name="description" content="Jenni Whitman P1 Demo">
 	<meta name="author" content="Jenni Whitman">
-
+	<meta name="google-site-verification" content="tKG-dxiG_c5PkW4q4SrUxq_SJgoSmHTXVShLkDX94fw" />
 
 	<!-- add style - fabulous! -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">
